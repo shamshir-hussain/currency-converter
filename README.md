@@ -4,6 +4,8 @@
 
 A simple and user-friendly Currency Converter application that allows users to convert amounts between different currencies using real-time exchange rates. This project utilizes the Currency API to fetch live exchange rates and provides an intuitive interface for users.
 
+### [View Deployed Page](https://shamshir-hussain.github.io/currency-converter/)
+
 ## Features
 
 - **Real-time Currency Conversion**: Fetches live exchange rates from the Currency API.
