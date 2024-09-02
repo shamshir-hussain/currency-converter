@@ -93,10 +93,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 - Go to the original repository and click on "Pull Requests", then "New Pull Request".
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [Fawaz Ahmed's Currency API](https://github.com/fawazahmed0/currency-api) for providing the currency exchange rates.
